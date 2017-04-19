@@ -1,9 +1,14 @@
-# api documentation for  [hyperterm-paste (v1.1.0)](https://github.com/krzkaczor/hyperterm-paste#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-hyperterm-paste.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hyperterm-paste) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hyperterm-paste.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hyperterm-paste)
+# npmdoc-hyperterm-paste
+
+#### api documentation for  [hyperterm-paste (v1.1.0)](https://github.com/krzkaczor/hyperterm-paste#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-hyperterm-paste.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hyperterm-paste) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hyperterm-paste.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hyperterm-paste)
+
 #### Makes pasting into hyperterm safe
 
-[![NPM](https://nodei.co/npm/hyperterm-paste.png?downloads=true)](https://www.npmjs.com/package/hyperterm-paste)
+[![NPM](https://nodei.co/npm/hyperterm-paste.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/hyperterm-paste)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-hyperterm-paste/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-hyperterm-paste_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-hyperterm-paste/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-hyperterm-paste/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-hyperterm-paste/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-hyperterm-paste/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-hyperterm-paste/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-hyperterm-paste/build/screenCapture.npmPackageListing.svg)
 
@@ -43,13 +48,11 @@
     "main": "src/index.js",
     "maintainers": [
         {
-            "name": "krzkaczor",
-            "email": "krzkaczor@gmail.com"
+            "name": "krzkaczor"
         }
     ],
     "name": "hyperterm-paste",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/krzkaczor/hyperterm-paste.git"
@@ -66,16 +69,6 @@
     "version": "1.1.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module hyperterm-paste](#apidoc.module.hyperterm-paste)
-
-
-
-# <a name="apidoc.module.hyperterm-paste"></a>[module hyperterm-paste](#apidoc.module.hyperterm-paste)
 
 
 
